@@ -7,3 +7,5 @@ Data sources used in the EDA include:
    Breweries.csv
    Beer Demographics.csv
 Powerpoint Presentation: Beer EDA.ppt
+
+The Youtube presentation can be found at :  https://www.youtube.com/watch?v=zgm2Ei5918E&feature=youtu.be
